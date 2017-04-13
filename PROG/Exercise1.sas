@@ -1,5 +1,5 @@
 /**********************************************************************************
-
+  
 PROGRAM:      C:\MEPS\SAS\PROG\EXERCISE1.SAS
 
 DESCRIPTION:  THIS PROGRAM GENERATES THE FOLLOWING ESTIMATES ON NATIONAL HEALTH CARE EXPENSES BY TYPE OF SERVICE, 2014:
